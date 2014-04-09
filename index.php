@@ -9,6 +9,8 @@
         <script type="text/javascript" src="js/script.js"></script>
 </head> 
 <body> 
+    
+    
     <script language="javascript">
 $(document).ready(function() {
     $().ajaxStart(function() {
